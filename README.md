@@ -1,2 +1,2 @@
 # text-summarizer
-here we use text summarise feature of NLP using google palm API key 
+here we use text summarise feature of NLP using google API key 
